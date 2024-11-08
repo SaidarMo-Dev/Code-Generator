@@ -1,0 +1,8 @@
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.exe.config
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.exe
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.pdb
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.exe
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.pdb
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.exe
+C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.pdb

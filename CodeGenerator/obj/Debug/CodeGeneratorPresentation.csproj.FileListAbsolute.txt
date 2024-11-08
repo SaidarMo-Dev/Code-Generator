@@ -1,0 +1,13 @@
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGeneratorPresentation.csprojResolveAssemblyReference.cache
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Form1.resources
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Properties.Resources.resources
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGeneratorPresentation.csproj.GenerateResource.Cache
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe.config
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_BusinessLayer.exe
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_BusinessLayer.pdb
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
+C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.exe
+C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.pdb
