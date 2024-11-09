@@ -6,3 +6,11 @@ C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGener
 C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.pdb
 C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.exe
 C:\visual projects\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.exe.config
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_BusinessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\bin\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_BusinessLayer\obj\Debug\CodeGenerator_BusinessLayer.pdb

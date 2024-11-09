@@ -4,3 +4,9 @@ C:\visual projects\CodeGenerator\CodeGenerator_DataAcessLayer\bin\Debug\CodeGene
 C:\visual projects\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.csprojResolveAssemblyReference.cache
 C:\visual projects\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.exe
 C:\visual projects\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\bin\Debug\CodeGenerator_DataAcessLayer.exe.config
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\bin\Debug\CodeGenerator_DataAcessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\bin\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator_DataAcessLayer\obj\Debug\CodeGenerator_DataAcessLayer.pdb

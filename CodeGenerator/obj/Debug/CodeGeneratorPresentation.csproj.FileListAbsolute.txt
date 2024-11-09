@@ -11,3 +11,16 @@ C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
 C:\visual projects\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
 C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.exe
 C:\visual projects\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe.config
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_BusinessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.exe
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_BusinessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_DataAcessLayer.pdb
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGeneratorPresentation.csprojResolveAssemblyReference.cache
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Form1.resources
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Properties.Resources.resources
+C:\Users\abdelkhalek\OneDrive - OFPPT\Bureau\CodeGenerator\CodeGenerator\obj\Debug\CodeGeneratorPresentation.csproj.GenerateResource.Cache
